@@ -1,7 +1,15 @@
 {
-  "index": 0,
-  "used_keys": [],
-  "last_hour_key": null,
-  "sent_count": 0,
-  "sent_hours": {}
+  "index": 1,
+  "used_keys": [
+    "آویشن|0|0|0|0"
+  ],
+  "last_hour_key": "2026-10-05-15",
+  "sent_count": 1,
+  "sent_hours": {
+    "2026-10-05": [
+      15
+    ]
+  },
+  "last_sent_date": "2026-10-05",
+  "last_sent_hour": 15
 }
