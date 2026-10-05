@@ -7,10 +7,6 @@ on:
         description: "Force post even if already posted this hour"
         required: false
         default: "false"
-      bot_token:
-        description: "Optional BOT_TOKEN override (use secret if empty)"
-        required: false
-        default: ""
   schedule:
     - cron: "0,5,10,15,20,25 * * * *"
     - cron: "30,35,40,45,50,55 * * * *"
@@ -42,9 +38,9 @@ jobs:
 
       - name: Post to Rubika channel
         env:
-          BOT_TOKEN: ${{ github.event.inputs.bot_token || secrets.BOT_TOKEN }}
-          CHANNEL_LINK: ${{ secrets.CHANNEL_LINK || 'https://rubika.ir/giahanedaroi' }}
-          CHAT_ID: ${{ secrets.CHAT_ID || 'c0Cr7CY010ddee1b54438f20491db663' }}
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL_LINK: ${{ secrets.CHANNEL_LINK }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
           FORCE: ${{ github.event.inputs.force || 'false' }}
         run: python bot.py
 
