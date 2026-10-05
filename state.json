@@ -1,16 +1,7 @@
 {
-  "used": [
-    "bfabbd9e1534c521",
-    "c2700a89bde31d30"
-  ],
-  "last_hour_key": "2026-10-05-15",
-  "sent_count": 2,
-  "sent_hours": {
-    "2026-10-05": [
-      14,
-      15
-    ]
-  },
-  "last_sent_date": "2026-10-05",
-  "last_sent_hour": 15
+  "index": 0,
+  "used_keys": [],
+  "last_hour_key": null,
+  "sent_count": 0,
+  "sent_hours": {}
 }
