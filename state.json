@@ -1,27 +1,30 @@
 {
-  "index": 4,
+  "index": 5,
   "used_keys": [
     "plant-0-آویشن",
     "plant-1-آویشن شیرازی",
     "plant-2-زنجبیل",
-    "plant-3-زنجبیل خشک"
+    "plant-3-زنجبیل خشک",
+    "plant-4-نعناع"
   ],
   "used_plants": [
     "آویشن",
     "آویشن شیرازی",
     "زنجبیل",
-    "زنجبیل خشک"
+    "زنجبیل خشک",
+    "نعناع"
   ],
-  "last_hour_key": "2026-10-06-15",
-  "sent_count": 4,
+  "last_hour_key": "2026-10-06-16",
+  "sent_count": 5,
   "sent_hours": {
     "2026-10-06": [
       12,
       13,
       14,
-      15
+      15,
+      16
     ]
   },
   "last_sent_date": "2026-10-06",
-  "last_sent_hour": 15
+  "last_sent_hour": 16
 }
