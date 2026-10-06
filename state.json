@@ -1,21 +1,24 @@
 {
-  "index": 2,
+  "index": 3,
   "used_keys": [
     "plant-0-آویشن",
-    "plant-1-آویشن شیرازی"
+    "plant-1-آویشن شیرازی",
+    "plant-2-زنجبیل"
   ],
   "used_plants": [
     "آویشن",
-    "آویشن شیرازی"
+    "آویشن شیرازی",
+    "زنجبیل"
   ],
-  "last_hour_key": "2026-10-06-13",
-  "sent_count": 2,
+  "last_hour_key": "2026-10-06-14",
+  "sent_count": 3,
   "sent_hours": {
     "2026-10-06": [
       12,
-      13
+      13,
+      14
     ]
   },
   "last_sent_date": "2026-10-06",
-  "last_sent_hour": 13
+  "last_sent_hour": 14
 }
