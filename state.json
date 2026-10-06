@@ -1,18 +1,21 @@
 {
-  "index": 1,
+  "index": 2,
   "used_keys": [
-    "plant-0-آویشن"
+    "plant-0-آویشن",
+    "plant-1-آویشن شیرازی"
   ],
   "used_plants": [
-    "آویشن"
+    "آویشن",
+    "آویشن شیرازی"
   ],
-  "last_hour_key": "2026-10-06-12",
-  "sent_count": 1,
+  "last_hour_key": "2026-10-06-13",
+  "sent_count": 2,
   "sent_hours": {
     "2026-10-06": [
-      12
+      12,
+      13
     ]
   },
   "last_sent_date": "2026-10-06",
-  "last_sent_hour": 12
+  "last_sent_hour": 13
 }
