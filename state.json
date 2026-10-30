@@ -1,5 +1,5 @@
 {
-  "index": 359,
+  "index": 360,
   "used_keys": [
     "plant-0-آویشن",
     "plant-1-آویشن شیرازی",
@@ -359,7 +359,8 @@
     "plant-355-مورینگا پودر",
     "plant-356-اسپیرولینا",
     "plant-357-کلرلا",
-    "plant-358-چlorella"
+    "plant-358-چlorella",
+    "plant-359-گزنه خشک"
   ],
   "used_plants": [
     "آویشن",
@@ -720,10 +721,11 @@
     "مورینگا پودر",
     "اسپیرولینا",
     "کلرلا",
-    "چlorella"
+    "چlorella",
+    "گزنه خشک"
   ],
-  "last_hour_key": "2026-10-30-15",
-  "sent_count": 359,
+  "last_hour_key": "2026-10-30-16",
+  "sent_count": 360,
   "sent_hours": {
     "2026-10-06": [
       12,
@@ -1132,9 +1134,10 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ]
   },
   "last_sent_date": "2026-10-30",
-  "last_sent_hour": 15
+  "last_sent_hour": 16
 }
